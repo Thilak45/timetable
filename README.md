@@ -124,5 +124,5 @@ Execute the program
 # OUPUT
 
 ### timetable
-![timetable](timetable.png)
+![timetable](timetable.JPG)
 
